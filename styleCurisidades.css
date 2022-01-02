@@ -78,6 +78,8 @@ h5#img1, h5#img2, h5#img3, h5#img4{
     margin-left: 600px;
     margin-bottom: 2%;
 }
+
+
 .um, .dois, .tres, .quatro{
     
     display: table-cell;
@@ -89,4 +91,10 @@ h5#img1, h5#img2, h5#img3, h5#img4{
     font-weight: bold;
     margin-right: 80px;
     margin-top: 20px;
+}
+
+p#p6 {
+    margin-top: 40px !important;
+    font-style: italic;
+    font-weight: bold;   
 }
