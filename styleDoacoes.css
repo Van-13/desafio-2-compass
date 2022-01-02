@@ -4,13 +4,12 @@
     background:rgb(243, 11, 135)
 }
 header{
-    margin-top: 20px;
     margin-left: 30px;
 }
 h1{
     color: black;
     font-family: 'Pacifico', cursive;
-    margin-top: 30px;
+    margin-top: 70px;
 }
 a{
     text-decoration: none !important;
