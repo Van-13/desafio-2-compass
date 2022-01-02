@@ -13,10 +13,13 @@ h1 {
 }
 .img {
     width: 1150px;
-    height: 500px;
-    margin-top: 30px;
-    margin-left: 200px;
+    position: relative;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 170px;
     border-radius: 20px;
+    
 }
 p {
     text-align: center;

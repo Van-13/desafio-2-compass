@@ -12,14 +12,20 @@ h1{
     font-family: 'Pacifico', cursive;
     margin-top: 30px;
 }
-
+    a{
+        text-decoration: none ;
+        list-style: none !important;
+    }
 h2 {
     font-size: 70px;
     text-align: center;
     margin-top: 10px;
 }
-a{
-    text-decoration: none !important;
+p{
+    text-align: center;
+    font-family: 'Licorice', cursive;
+    font-size: 23px;
+    margin-top: 15px;
 }
 .subtitulo{
     font-size: 30px;
@@ -43,18 +49,6 @@ h5{
     font-family: 'Montserrat', sans-serif;
     color: rgba(53, 7, 31, 0.801);
 }
-p{
-    margin-top: 10px;
-    font-size: 20px;
-    text-align: center;
-
-}
-
-.itens {
-    width: 45%;
-    display: inline-block;
-    margin-top: 30px;
-    }
 
 .imgcuriosidades {
      width:90%;
@@ -74,8 +68,25 @@ p{
     height: 50%;
     margin-top: 10px; 
 }
-
-.coluna li {
-    display: inline-block;
-
+img{
+    border-radius: 10px;
+}
+h5#img1, h5#img2, h5#img3, h5#img4{
+    display: table-cell;
+    float: left;
+    width: 400px;
+    margin-left: 600px;
+    margin-bottom: 2%;
+}
+.um, .dois, .tres, .quatro{
+    
+    display: table-cell;
+    float: left;
+    width: 400px;
+    margin-left: 65px;
+    font-size: 17px;
+    font-family: 'Licorice', cursive;
+    font-weight: bold;
+    margin-right: 80px;
+    margin-top: 20px;
 }
