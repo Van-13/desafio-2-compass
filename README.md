@@ -13,3 +13,10 @@
 ### DESENVOLVIMENTO
 
 Para iniciar o desenvolvimento, será necessário clonar o projeto do GitHub num diretório de sua preferência.
+
+## CONTEÚDO
+O Projeto é apresentado em:
+
+- Alimentação;
+- Curiosidades;
+- Doações.
