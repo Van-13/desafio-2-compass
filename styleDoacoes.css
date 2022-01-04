@@ -1,7 +1,9 @@
-*{margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background:rgb(243, 11, 135)
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    background:rgb(243, 11, 135) !important
+
 }
 header{
     margin-left: 30px;
@@ -9,7 +11,22 @@ header{
 h1{
     color: black;
     font-family: 'Pacifico', cursive;
-    margin-top: 70px;
+}
+.navbar-brand{
+    font-size: 25px !important;
+    color: white !important;
+    margin-left: 40px !important;
+
+}
+.nav-link{
+    margin: 25px 25px 25px 25px !important;
+    font-size: 25px !important;
+    color: white !important;
+}
+h2{
+        margin-top: 80px !important;
+  
+
 }
 a{
     text-decoration: none !important;
@@ -19,12 +36,15 @@ a{
     text-align: center;
     font-family: 'Pacifico', cursive;
     font-style: italic;
+    margin-bottom: 3% !important;
+    color: white !important;
 }
 
 h2 {
     font-size: 70px;
     text-align: center;
     margin-top: 10px;
+    color: white !important;
 }
 
 .cat {
@@ -35,6 +55,8 @@ h2 {
     top: 250px;
     left: 50%;
     transform: translate(-50%, -50%);
+    border-radius: 10px;
+    margin-bottom: 8% !important;
 }
 
 p#p6 {
@@ -42,4 +64,166 @@ p#p6 {
     font-style: italic;
     font-weight: bold;  
     text-align: center; 
+}
+
+.paypal-form hr {
+    margin:0;
+}
+.paypal-form h4{
+    font-size:16px;
+}
+    .paypal-form .paypal-header {
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+    }
+        .paypal-form .paypal-header .header-text {
+            margin-right: 15px;
+            color: #DF662F;
+            margin-top: 0;
+            margin-bottom: 0;
+            font-size:15px;
+        }
+    .paypal-form .paypal-header img{
+        width:100px;
+        height:30px;
+    }
+
+    .paypal-form .paypal-body {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 0;
+        border-top: 1px solid #efe9e9;
+    }
+        .paypal-form .paypal-body .col {
+            padding: 15px 15px;
+            padding-bottom:20px;
+        }
+            .paypal-form .paypal-body .col:first-child {
+                border-right: 1px solid #efe9e9;
+            }
+
+        .paypal-form .paypal-body h4 {
+            margin: 0;
+            background-color: #333333;
+            color: white;
+            display: inline-block;
+            padding: 3px 10px;
+            text-transform:uppercase;
+            font-size:14px;
+        }
+    .paypal-form .paypal-body p{
+        font-size:15px;
+        line-height:1.5;
+        margin-top:4px;
+    }
+    .paypal-form .paypal-content{
+        display:flex;
+        flex-direction:column;
+        
+    }
+    .paypal-form .paypal-content form {
+        display: flex;
+        flex-direction: column;
+    }
+        .paypal-form .paypal-content select {
+            height: 35px;
+            margin-bottom: 10px;
+            padding-left: 5px;
+            border: 1px solid #bdb5b5;
+        }
+        .paypal-form .paypal-content .paypal-img {
+            align-self: flex-start;
+            border:none !important;
+        }
+
+        @media(max-width:768px){
+            .paypal-form .paypal-body {
+                grid-template-columns: 1fr;                
+            }
+                .paypal-form .paypal-body .col:first-child {
+                    border-bottom: 1px solid #efe9e9;
+                }
+        }
+
+
+
+.paypal-contact {
+    padding: 15px 20px;
+    padding-bottom:25px;
+    border: 2px solid #FFC734;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.paypal-contact * {
+    margin:0;
+    font-size:15px;
+}
+
+    
+        .paypal-contact h4 {
+            color: #DF662F;
+            margin-bottom:15px;
+        }
+        .paypal-contact p {
+            margin-bottom: 8px;
+            font-weight:bold;
+        }
+        .paypal-contact p span {
+            color: dimgrey;
+            text-transform:uppercase;
+            font-weight:normal;
+            /*margin-bottom: 15px;*/
+        }
+        .paypal-contact .text-muted {
+            font-size:11px;
+            color:dimgrey;
+            /*margin-bottom: 15px;*/
+        }
+
+
+.paypal-form-button{
+    display:flex;
+    flex-direction:column;
+}
+.GatosAs{
+    margin-left: 160px !important;
+    margin-bottom: 2% !important;
+}
+.jjj{
+    margin-left: 160px !important;
+    font-size: 10px !important;
+    color: white !important;
+}
+option{
+    margin-left: 160px !important;
+    margin-bottom: 3.5% !important;
+    color: white !important;
+}
+.paypal-img, .member{
+    margin-left: 160px !important;
+    color: white !important;
+    
+}
+.doc{
+    margin-left: 160px !important;
+    color: white !important;
+}
+.member{
+    margin-left: 180px !important;
+    color: white !important;
+    width: 100px !important;
+    height: 30px !important;
+    margin-top: 25px !important;
+
+}
+.dev{
+    margin-left: 160px !important;
+    color: white !important;
+}
+.pay{
+   margin-top: 10px !important;
+   width: 147px !important;
+   height: 47px !important;
+   margin-left: 160px !important;
 }
