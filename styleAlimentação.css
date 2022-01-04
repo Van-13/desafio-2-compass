@@ -1,17 +1,50 @@
 *{margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background:rgb(235, 146, 193)  
+    padding: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    background:rgb(235, 146, 193)  !important 
+}
+
+header{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 35px;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: white !important; 
+    margin-left: 40px !important;
+    
+}
+.pé{
+
+    font-size: 30px !important;
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+    font-size: 25px;
+    margin: 25px 25px 25px 25px !important;
 }
 header{
     margin-top: 20px;
     margin-left: 30px;  
 }
 
-h1{
-    color: black;
-    font-family: 'Pacifico', cursive;
-    margin-top: 70px;
+h5#constainer12{
+
+    font-size: 40px !important;
+    font-weight: bold !important;
+}
+.constainer12{
+    font-size: 40px !important;
+    font-weight: bolds;
+    font-weight: bold !important;
+
+}
+h3{
+    font-size: 50px !important;
+    font-weight: bold;
 }
 
 h2 {
@@ -19,11 +52,18 @@ h2 {
     text-align: center;
     margin-top: 10px;
 }
+h2{
+    margin-top: 95px;
+}
 
 a{
     text-decoration: none !important;
 }
-
+h5#img3, h5#img4, h5#img5{
+    font-size: 40px !important;
+    font-weight: bolds;
+    font-weight: bold !important;
+}
 .subtitulo{
     font-size: 30px;
     text-align: center;
@@ -183,4 +223,7 @@ p#p6 {
     margin-top: 40px !important;
     font-style: italic;
     font-weight: bold;  
+}
+.um, .dois, .tres, .quatro, .cinco{
+    font-size: 30px !important;
 }
