@@ -11,6 +11,7 @@ header{
 h1{
     color: black;
     font-family: 'Pacifico', cursive;
+<<<<<<< HEAD
 }
 .navbar-brand{
     font-size: 25px !important;
@@ -27,6 +28,10 @@ h2{
         margin-top: 80px !important;
   
 
+=======
+    margin-top: 70px;
+    
+>>>>>>> 7c2e37fea6668fd2a51a39207c5b2651347aaafe
 }
 a{
     text-decoration: none !important;
@@ -66,6 +71,12 @@ p#p6 {
     text-align: center; 
 }
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 7c2e37fea6668fd2a51a39207c5b2651347aaafe
 .paypal-form hr {
     margin:0;
 }
@@ -186,6 +197,7 @@ p#p6 {
     display:flex;
     flex-direction:column;
 }
+<<<<<<< HEAD
 .GatosAs{
     margin-left: 160px !important;
     margin-bottom: 2% !important;
@@ -227,3 +239,7 @@ option{
    height: 47px !important;
    margin-left: 160px !important;
 }
+=======
+
+
+>>>>>>> 7c2e37fea6668fd2a51a39207c5b2651347aaafe
