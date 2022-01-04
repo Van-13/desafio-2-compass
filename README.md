@@ -1,4 +1,4 @@
-Para iniciar o desenvolvimento, será necessário clonar o projeto do GitHub num diretório de sua preferência.<h1 align="center"> Desafio 2 – Desenvolvimento de um projeto utilizando APIs - COMPASS UOL</h1> 
+<h1>align="center"> Desafio 2 – Desenvolvimento de um projeto utilizando APIs - COMPASS UOL</h1> 
 
 ## GATOS & COMPANY
     
@@ -6,11 +6,13 @@ Para iniciar o desenvolvimento, será necessário clonar o projeto do GitHub num
 
 
 ## Para executar o projeto, será necessário instalar os seguintes programas:
+
 - Visual Studio Code;
 - GitHub e GitHub(destok); </p>
 
 
 ## CONTEÚDO
+
 O Projeto é apresentado em:
 
 - Alimentação;
@@ -31,4 +33,5 @@ Todo o código do programa se encontra no diretório do GitHub: - https://github
 Para iniciar o desenvolvimento, será necessário clonar o projeto do GitHub num diretório de sua preferência.
 
 ### TESTES
+
 Podem ser realizados no console do DEVTOOLS
