@@ -1,4 +1,4 @@
-<h1>align="center"> Desafio 2 – Desenvolvimento de um projeto utilizando APIs - COMPASS UOL</h1> 
+<h1 align="center"> Desafio 2 – Desenvolvimento de um projeto utilizando APIs - COMPASS UOL</h1> 
 
 ## GATOS & COMPANY
     
