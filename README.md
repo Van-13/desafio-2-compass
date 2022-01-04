@@ -10,13 +10,25 @@
 - GitHub e GitHub(destok); </p>
 
 
-### DESENVOLVIMENTO
-
-Para iniciar o desenvolvimento, será necessário clonar o projeto do GitHub num diretório de sua preferência.
-
 ## CONTEÚDO
 O Projeto é apresentado em:
 
 - Alimentação;
 - Curiosidades;
 - Doações.
+
+### DESENVOLVIMENTO
+ 
+Neste projeto foram Utizadas as seguintes tecnologias;
+
+- HTML E CSS;
+- BOOSTTRAP;
+- REGEX;
+- API;
+
+Todo o código do programa se encontra no diretório do GitHub: - https://github.com/Van-13/desafio-2-compass
+
+Para iniciar o desenvolvimento, será necessário clonar o projeto do GitHub num diretório de sua preferência.
+
+### TESTES
+Podem ser realizados no console do DEVTOOLS
